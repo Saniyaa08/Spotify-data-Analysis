@@ -18,6 +18,8 @@ The analysis employs a combination of data manipulation, descriptive statistics,
 🌟 Repository Structure:
 - `data/`: Contains the Spotify dataset link or instructions on how to obtain it.
 - `code/`: files with the step-by-step data analysis code and visualizations.
+- `Detail of the project/`: Provides an overview of the project, dataset information, and instructions for reproducing the analysis.
+
 
 📝 Contribution:
 Contributions, suggestions, and feedback are welcome! If you have any ideas to improve the analysis, discover additional insights, or enhance the code, feel free to open an issue or submit a pull request.
